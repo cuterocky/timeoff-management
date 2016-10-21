@@ -58,7 +58,7 @@ Install TimeOff Manager within your infrastructure:
 (make sure you have Node.js installed)
 
 ```bash
-git clone git@github.com:vpp/timeoff-management.git
+git clone https://github.com/cuterocky/timeoff-management
 cd timeoff-management
 npm install
 node bin/www
